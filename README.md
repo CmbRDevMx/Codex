@@ -1,3 +1,22 @@
+```
+<p> 
+    <strong>Construcciones Pimentel</strong>: Su Aliado en <strong>Construcción y Remodelación en Tijuana</strong>. <br> 
+    ¿En busca de un <strong>contratista confiable y experimentado en Tijuana</strong>? En <strong>Construcciones Pimentel</strong>, nos enorgullecemos de ser una <strong>empresa líder en construcción civil</strong>, <strong>diseño y construcción</strong>, <strong>pisos y azulejos</strong>, <strong>construcción residencial</strong> y <strong>construcción industrial</strong>. Nuestro equipo de expertos, dirigido por <strong>Abraham Pimentel</strong>, cuenta con años de experiencia en el sector, ofreciendo <strong>soluciones innovadoras y funcionales</strong> para <strong>casas</strong>, <strong>departamentos</strong>, <strong>industrias</strong> y <strong>empresas</strong>.
+</p>
+```
+
+```
+<p>
+    Como <strong>empresa registrada oficialmente en el SAT</strong> (RFC: PIAA851117NBA), garantizamos <strong>transparencia y confiabilidad</strong> en todos nuestros proyectos. Nuestro enfoque se centra en la <strong>calidad</strong>, la <strong>innovación</strong> y la <strong>satisfacción del cliente</strong>. Utilizamos los mejores <strong>materiales</strong> y <strong>tecnología de vanguardia</strong> para asegurar <strong>resultados duraderos</strong> y <strong>estéticamente impecables</strong>.
+</p>
+
+```
+```
+<p>
+    Ya sea que necesite una <strong>pequeña reparación</strong> o un <strong>gran proyecto industrial</strong>, nuestro equipo de expertos está listo para llevar su <strong>visión a la realidad</strong>. En <strong>Construcciones Pimentel</strong>, nos comprometemos a:
+</p>
+```
+
 Aquí tienes una etiqueta `<iframe>` de YouTube que es completamente responsiva y tiene bordes 3D y sombras azules. He incluido los estilos dentro de la etiqueta para que puedas añadirla directamente a tu página:
 
 ```html
